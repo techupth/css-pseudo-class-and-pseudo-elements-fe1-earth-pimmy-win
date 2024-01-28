@@ -1,1 +1,20 @@
-/* Start coding here */
+input[disabled] {
+    background: lightgrey;
+}
+
+input:hover {
+    /*display: flex;*/
+    /*border: 1px solid khaki;*/
+    border-color: khaki;
+}
+
+button {
+    width: 120px;
+    height: 36px;
+    border: 1px solid lightgrey;
+    background-color:khaki;
+}
+
+button:hover {
+    color: pink;
+}
