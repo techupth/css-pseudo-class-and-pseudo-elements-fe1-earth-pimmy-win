@@ -1,1 +1,14 @@
-/* Start coding here */
+/*disabled Input */
+.registration-form input:disabled {
+    background-color: lightgrey;
+  }
+  
+  /*Hover Input*/
+  .registration-form input:hover {
+    border: khaki;
+  }
+  
+  /*Hover Button*/
+  .registration-form button:hover {
+    color: pink;
+  }
